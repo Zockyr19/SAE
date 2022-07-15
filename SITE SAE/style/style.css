@@ -1,0 +1,184 @@
+a, h1{
+    font-family: 'Bebas Neue', cursive;;
+}
+p, h2, h3{
+    font-family: 'Khula', sans-serif;
+    margin: 0px;
+}
+
+
+body{
+    margin: 0;
+    background-image: url('../img/Fond.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ 
+
+.nav {
+    margin-left: 40%;
+    margin-right: 30%;
+    
+  }
+  
+  .nav a {
+    color: #E586D6;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+   
+  }
+  
+  .nav a:hover {
+    background-color: #a2e0d6;
+    color: black;
+}
+
+img {
+  width: 10%;
+}
+
+.logoreso{
+  width: 30%;
+}
+
+.logoapex{
+  width: 30%;
+  padding-left: 30px;
+}
+
+.logo{
+  margin-bottom: -140px;
+}
+
+.logosae{
+  width: 80%;
+  margin-top: -300px;
+}
+.logostaff{
+  width: 130%;
+  opacity: 80%;
+}
+
+.container {
+  height: 1500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #a2e0d6;
+}
+
+.item{
+  margin: 500px;
+  border: 2px solid ;
+  font-size: 20px;
+  background-color: #000000b7;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  
+}
+
+.reseaux {
+  height: 1000px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.reseaux a {
+  text-align: center;
+}
+
+.equipe{
+  height: 1000px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 250px;
+}
+
+.equipeow{
+  height: 1000px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 500px;
+  position: center;
+}
+
+.nomequipejoueur{
+  font-size: 50px;
+  color: #a2e0d6;
+}
+
+.joueurow{
+  height: 1000px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 50px;
+  position: center;
+}
+
+.equipeapex{
+  height: 1000px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 200px;
+  position: center;
+}
+
+
+.equipevalo{
+  height: 1000px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 150px;
+  position: center;
+}
+
+.equipelol{
+  height: 1000px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 100px;
+  position: center;
+}
+
+.logoSAE{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 100px;
+  position: center;
+}
+
+.staff{
+  height: 1500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: center;
+  padding-right: 200px;
+}
+
+
+footer{
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #0d1b21;
+  color: white;
+  text-align: center;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
